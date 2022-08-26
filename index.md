@@ -1,5 +1,13 @@
 # Leo's First CS193 Homework
 
+things I love about CS193
+- the class teaches useful tools
+- the instructors are nice
+- the homeworks aren't too difficult
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
